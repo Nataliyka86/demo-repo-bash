@@ -1,1 +1,2 @@
 This is my third document. Extra texts
+This is done by branch NewBranch
